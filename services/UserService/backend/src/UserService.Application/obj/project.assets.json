@@ -17,8 +17,8 @@
   "libraries": {
     "UserService.Domain/1.0.0": {
       "type": "project",
-      "path": "../UserService.Domain/UserService.Domain.csproj",
-      "msbuildProject": "../UserService.Domain/UserService.Domain.csproj"
+      "path": "../Userservice.Domain/UserService.Domain.csproj",
+      "msbuildProject": "../Userservice.Domain/UserService.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -58,8 +58,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\backend\\src\\UserService.Domain\\UserService.Domain.csproj": {
-              "projectPath": "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\backend\\src\\UserService.Domain\\UserService.Domain.csproj"
+            "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\Backend\\src\\Userservice.Domain\\UserService.Domain.csproj": {
+              "projectPath": "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\Backend\\src\\Userservice.Domain\\UserService.Domain.csproj"
             }
           }
         }
