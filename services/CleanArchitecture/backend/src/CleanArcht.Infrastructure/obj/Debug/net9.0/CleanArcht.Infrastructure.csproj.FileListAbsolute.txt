@@ -1,0 +1,59 @@
+D:\Project\CleanArchitecture\backend\CleanArcht.Infrastructure\bin\Debug\net9.0\CleanArcht.Infrastructure.deps.json
+D:\Project\CleanArchitecture\backend\CleanArcht.Infrastructure\bin\Debug\net9.0\CleanArcht.Infrastructure.runtimeconfig.json
+D:\Project\CleanArchitecture\backend\CleanArcht.Infrastructure\bin\Debug\net9.0\CleanArcht.Infrastructure.dll
+D:\Project\CleanArchitecture\backend\CleanArcht.Infrastructure\bin\Debug\net9.0\CleanArcht.Infrastructure.pdb
+D:\Project\CleanArchitecture\backend\CleanArcht.Infrastructure\bin\Debug\net9.0\CleanArcht.Application.dll
+D:\Project\CleanArchitecture\backend\CleanArcht.Infrastructure\bin\Debug\net9.0\CleanArcht.Domain.dll
+D:\Project\CleanArchitecture\backend\CleanArcht.Infrastructure\bin\Debug\net9.0\CleanArcht.Application.pdb
+D:\Project\CleanArchitecture\backend\CleanArcht.Infrastructure\bin\Debug\net9.0\CleanArcht.Domain.pdb
+D:\Project\CleanArchitecture\backend\CleanArcht.Infrastructure\obj\Debug\net9.0\CleanArcht.Infrastructure.csproj.AssemblyReference.cache
+D:\Project\CleanArchitecture\backend\CleanArcht.Infrastructure\obj\Debug\net9.0\CleanArcht.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CleanArchitecture\backend\CleanArcht.Infrastructure\obj\Debug\net9.0\CleanArcht.Infrastructure.AssemblyInfoInputs.cache
+D:\Project\CleanArchitecture\backend\CleanArcht.Infrastructure\obj\Debug\net9.0\CleanArcht.Infrastructure.AssemblyInfo.cs
+D:\Project\CleanArchitecture\backend\CleanArcht.Infrastructure\obj\Debug\net9.0\CleanArcht.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Project\CleanArchitecture\backend\CleanArcht.Infrastructure\obj\Debug\net9.0\CleanArc.DDC49459.Up2Date
+D:\Project\CleanArchitecture\backend\CleanArcht.Infrastructure\obj\Debug\net9.0\CleanArcht.Infrastructure.dll
+D:\Project\CleanArchitecture\backend\CleanArcht.Infrastructure\obj\Debug\net9.0\refint\CleanArcht.Infrastructure.dll
+D:\Project\CleanArchitecture\backend\CleanArcht.Infrastructure\obj\Debug\net9.0\CleanArcht.Infrastructure.pdb
+D:\Project\CleanArchitecture\backend\CleanArcht.Infrastructure\obj\Debug\net9.0\CleanArcht.Infrastructure.genruntimeconfig.cache
+D:\Project\CleanArchitecture\backend\CleanArcht.Infrastructure\obj\Debug\net9.0\ref\CleanArcht.Infrastructure.dll
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\bin\Debug\net9.0\CleanArcht.Infrastructure.deps.json
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\bin\Debug\net9.0\CleanArcht.Infrastructure.runtimeconfig.json
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\bin\Debug\net9.0\CleanArcht.Infrastructure.dll
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\bin\Debug\net9.0\CleanArcht.Infrastructure.pdb
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\bin\Debug\net9.0\CleanArcht.Application.dll
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\bin\Debug\net9.0\CleanArcht.Domain.dll
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\bin\Debug\net9.0\CleanArcht.Application.pdb
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\bin\Debug\net9.0\CleanArcht.Domain.pdb
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\obj\Debug\net9.0\CleanArcht.Infrastructure.csproj.AssemblyReference.cache
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\obj\Debug\net9.0\CleanArcht.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\obj\Debug\net9.0\CleanArcht.Infrastructure.AssemblyInfoInputs.cache
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\obj\Debug\net9.0\CleanArcht.Infrastructure.AssemblyInfo.cs
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\obj\Debug\net9.0\CleanArcht.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\obj\Debug\net9.0\CleanArc.DDC49459.Up2Date
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\obj\Debug\net9.0\CleanArcht.Infrastructure.dll
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\obj\Debug\net9.0\refint\CleanArcht.Infrastructure.dll
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\obj\Debug\net9.0\CleanArcht.Infrastructure.pdb
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\obj\Debug\net9.0\CleanArcht.Infrastructure.genruntimeconfig.cache
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\obj\Debug\net9.0\ref\CleanArcht.Infrastructure.dll
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\obj\Debug\net9.0\CleanArcht.Infrastructure.sourcelink.json
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\bin\Debug\net9.0\CleanArcht.Infrastructure.deps.json
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\bin\Debug\net9.0\CleanArcht.Infrastructure.runtimeconfig.json
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\bin\Debug\net9.0\CleanArcht.Infrastructure.dll
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\bin\Debug\net9.0\CleanArcht.Infrastructure.pdb
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\bin\Debug\net9.0\CleanArcht.Application.dll
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\bin\Debug\net9.0\CleanArcht.Domain.dll
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\bin\Debug\net9.0\CleanArcht.Application.pdb
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\bin\Debug\net9.0\CleanArcht.Domain.pdb
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\obj\Debug\net9.0\CleanArcht.Infrastructure.csproj.AssemblyReference.cache
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\obj\Debug\net9.0\CleanArcht.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\obj\Debug\net9.0\CleanArcht.Infrastructure.AssemblyInfoInputs.cache
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\obj\Debug\net9.0\CleanArcht.Infrastructure.AssemblyInfo.cs
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\obj\Debug\net9.0\CleanArcht.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\obj\Debug\net9.0\CleanArcht.Infrastructure.sourcelink.json
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\obj\Debug\net9.0\CleanArc.DDC49459.Up2Date
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\obj\Debug\net9.0\CleanArcht.Infrastructure.dll
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\obj\Debug\net9.0\refint\CleanArcht.Infrastructure.dll
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\obj\Debug\net9.0\CleanArcht.Infrastructure.pdb
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\obj\Debug\net9.0\CleanArcht.Infrastructure.genruntimeconfig.cache
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\obj\Debug\net9.0\ref\CleanArcht.Infrastructure.dll

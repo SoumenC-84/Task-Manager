@@ -1,0 +1,11 @@
+D:\Project\UserService\backend\UserService.Domain\bin\Debug\net9.0\UserService.Domain.deps.json
+D:\Project\UserService\backend\UserService.Domain\bin\Debug\net9.0\UserService.Domain.dll
+D:\Project\UserService\backend\UserService.Domain\bin\Debug\net9.0\UserService.Domain.pdb
+D:\Project\UserService\backend\UserService.Domain\obj\Debug\net9.0\UserService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\UserService\backend\UserService.Domain\obj\Debug\net9.0\UserService.Domain.AssemblyInfoInputs.cache
+D:\Project\UserService\backend\UserService.Domain\obj\Debug\net9.0\UserService.Domain.AssemblyInfo.cs
+D:\Project\UserService\backend\UserService.Domain\obj\Debug\net9.0\UserService.Domain.csproj.CoreCompileInputs.cache
+D:\Project\UserService\backend\UserService.Domain\obj\Debug\net9.0\UserService.Domain.dll
+D:\Project\UserService\backend\UserService.Domain\obj\Debug\net9.0\refint\UserService.Domain.dll
+D:\Project\UserService\backend\UserService.Domain\obj\Debug\net9.0\UserService.Domain.pdb
+D:\Project\UserService\backend\UserService.Domain\obj\Debug\net9.0\ref\UserService.Domain.dll

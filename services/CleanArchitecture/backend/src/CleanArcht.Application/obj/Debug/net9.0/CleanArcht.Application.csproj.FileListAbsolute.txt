@@ -1,0 +1,47 @@
+D:\Project\CleanArchitecture\backend\CleanArcht.Application\bin\Debug\net9.0\CleanArcht.Application.deps.json
+D:\Project\CleanArchitecture\backend\CleanArcht.Application\bin\Debug\net9.0\CleanArcht.Application.dll
+D:\Project\CleanArchitecture\backend\CleanArcht.Application\bin\Debug\net9.0\CleanArcht.Application.pdb
+D:\Project\CleanArchitecture\backend\CleanArcht.Application\bin\Debug\net9.0\CleanArcht.Domain.dll
+D:\Project\CleanArchitecture\backend\CleanArcht.Application\bin\Debug\net9.0\CleanArcht.Domain.pdb
+D:\Project\CleanArchitecture\backend\CleanArcht.Application\obj\Debug\net9.0\CleanArcht.Application.csproj.AssemblyReference.cache
+D:\Project\CleanArchitecture\backend\CleanArcht.Application\obj\Debug\net9.0\CleanArcht.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CleanArchitecture\backend\CleanArcht.Application\obj\Debug\net9.0\CleanArcht.Application.AssemblyInfoInputs.cache
+D:\Project\CleanArchitecture\backend\CleanArcht.Application\obj\Debug\net9.0\CleanArcht.Application.AssemblyInfo.cs
+D:\Project\CleanArchitecture\backend\CleanArcht.Application\obj\Debug\net9.0\CleanArcht.Application.csproj.CoreCompileInputs.cache
+D:\Project\CleanArchitecture\backend\CleanArcht.Application\obj\Debug\net9.0\CleanArc.28C56709.Up2Date
+D:\Project\CleanArchitecture\backend\CleanArcht.Application\obj\Debug\net9.0\CleanArcht.Application.dll
+D:\Project\CleanArchitecture\backend\CleanArcht.Application\obj\Debug\net9.0\refint\CleanArcht.Application.dll
+D:\Project\CleanArchitecture\backend\CleanArcht.Application\obj\Debug\net9.0\CleanArcht.Application.pdb
+D:\Project\CleanArchitecture\backend\CleanArcht.Application\obj\Debug\net9.0\ref\CleanArcht.Application.dll
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Application\bin\Debug\net9.0\CleanArcht.Application.deps.json
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Application\bin\Debug\net9.0\CleanArcht.Application.dll
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Application\bin\Debug\net9.0\CleanArcht.Application.pdb
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Application\bin\Debug\net9.0\CleanArcht.Domain.dll
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Application\bin\Debug\net9.0\CleanArcht.Domain.pdb
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Application\obj\Debug\net9.0\CleanArcht.Application.csproj.AssemblyReference.cache
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Application\obj\Debug\net9.0\CleanArcht.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Application\obj\Debug\net9.0\CleanArcht.Application.AssemblyInfoInputs.cache
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Application\obj\Debug\net9.0\CleanArcht.Application.AssemblyInfo.cs
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Application\obj\Debug\net9.0\CleanArcht.Application.csproj.CoreCompileInputs.cache
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Application\obj\Debug\net9.0\CleanArc.28C56709.Up2Date
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Application\obj\Debug\net9.0\CleanArcht.Application.dll
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Application\obj\Debug\net9.0\refint\CleanArcht.Application.dll
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Application\obj\Debug\net9.0\CleanArcht.Application.pdb
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Application\obj\Debug\net9.0\ref\CleanArcht.Application.dll
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Application\obj\Debug\net9.0\CleanArcht.Application.sourcelink.json
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Application\bin\Debug\net9.0\CleanArcht.Application.deps.json
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Application\bin\Debug\net9.0\CleanArcht.Application.dll
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Application\bin\Debug\net9.0\CleanArcht.Application.pdb
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Application\bin\Debug\net9.0\CleanArcht.Domain.dll
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Application\bin\Debug\net9.0\CleanArcht.Domain.pdb
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Application\obj\Debug\net9.0\CleanArcht.Application.csproj.AssemblyReference.cache
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Application\obj\Debug\net9.0\CleanArcht.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Application\obj\Debug\net9.0\CleanArcht.Application.AssemblyInfoInputs.cache
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Application\obj\Debug\net9.0\CleanArcht.Application.AssemblyInfo.cs
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Application\obj\Debug\net9.0\CleanArcht.Application.csproj.CoreCompileInputs.cache
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Application\obj\Debug\net9.0\CleanArcht.Application.sourcelink.json
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Application\obj\Debug\net9.0\CleanArc.28C56709.Up2Date
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Application\obj\Debug\net9.0\CleanArcht.Application.dll
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Application\obj\Debug\net9.0\refint\CleanArcht.Application.dll
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Application\obj\Debug\net9.0\CleanArcht.Application.pdb
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Application\obj\Debug\net9.0\ref\CleanArcht.Application.dll

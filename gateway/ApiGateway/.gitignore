@@ -1,0 +1,35 @@
+# Build artifacts
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio temporary files
+.vs/
+
+# NPM
+node_modules/
+
+# Rider
+.idea/
+
+# Backup files
+*.bak
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Visual Studio Code workspace settings
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# Rider
+*.sln.iml

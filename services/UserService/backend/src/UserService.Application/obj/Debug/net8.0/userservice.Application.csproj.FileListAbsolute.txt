@@ -1,0 +1,47 @@
+D:\Project\UserService\backend\userservice.application\bin\Debug\net8.0\userservice.Application.deps.json
+D:\Project\UserService\backend\userservice.application\bin\Debug\net8.0\userservice.Application.dll
+D:\Project\UserService\backend\userservice.application\bin\Debug\net8.0\userservice.Application.pdb
+D:\Project\UserService\backend\userservice.application\bin\Debug\net8.0\userservice.domain.dll
+D:\Project\UserService\backend\userservice.application\bin\Debug\net8.0\userservice.domain.pdb
+D:\Project\UserService\backend\userservice.application\obj\Debug\net8.0\userservice.Application.csproj.AssemblyReference.cache
+D:\Project\UserService\backend\userservice.application\obj\Debug\net8.0\userservice.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\UserService\backend\userservice.application\obj\Debug\net8.0\userservice.Application.AssemblyInfoInputs.cache
+D:\Project\UserService\backend\userservice.application\obj\Debug\net8.0\userservice.Application.AssemblyInfo.cs
+D:\Project\UserService\backend\userservice.application\obj\Debug\net8.0\userservice.Application.csproj.CoreCompileInputs.cache
+D:\Project\UserService\backend\userservice.application\obj\Debug\net8.0\userservice.Application.dll
+D:\Project\UserService\backend\userservice.application\obj\Debug\net8.0\refint\userservice.Application.dll
+D:\Project\UserService\backend\userservice.application\obj\Debug\net8.0\userservice.Application.pdb
+D:\Project\UserService\backend\userservice.application\obj\Debug\net8.0\ref\userservice.Application.dll
+D:\Project\UserService\backend\UserService.Application\obj\Debug\net8.0\UserServ.9A0DA653.Up2Date
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Application\bin\Debug\net8.0\UserService.Application.deps.json
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Application\bin\Debug\net8.0\UserService.Application.dll
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Application\bin\Debug\net8.0\UserService.Application.pdb
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Application\bin\Debug\net8.0\UserService.Domain.dll
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Application\bin\Debug\net8.0\UserService.Domain.pdb
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Application\obj\Debug\net8.0\UserService.Application.csproj.AssemblyReference.cache
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Application\obj\Debug\net8.0\UserService.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Application\obj\Debug\net8.0\UserService.Application.AssemblyInfoInputs.cache
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Application\obj\Debug\net8.0\UserService.Application.AssemblyInfo.cs
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Application\obj\Debug\net8.0\UserService.Application.csproj.CoreCompileInputs.cache
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Application\obj\Debug\net8.0\UserService.Application.dll
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Application\obj\Debug\net8.0\refint\UserService.Application.dll
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Application\obj\Debug\net8.0\UserService.Application.pdb
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Application\obj\Debug\net8.0\ref\UserService.Application.dll
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Application\obj\Debug\net8.0\UserService.Application.sourcelink.json
+D:\Project\MicroservicesPOC\services\UserService\backend\src\userservice.application\obj\Debug\net8.0\userserv.2BEE6043.Up2Date
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Application\bin\Debug\net8.0\UserService.Application.deps.json
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Application\bin\Debug\net8.0\UserService.Application.dll
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Application\bin\Debug\net8.0\UserService.Application.pdb
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Application\bin\Debug\net8.0\UserService.Domain.dll
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Application\bin\Debug\net8.0\UserService.Domain.pdb
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Application\obj\Debug\net8.0\UserService.Application.csproj.AssemblyReference.cache
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Application\obj\Debug\net8.0\UserService.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Application\obj\Debug\net8.0\UserService.Application.AssemblyInfoInputs.cache
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Application\obj\Debug\net8.0\UserService.Application.AssemblyInfo.cs
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Application\obj\Debug\net8.0\UserService.Application.csproj.CoreCompileInputs.cache
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Application\obj\Debug\net8.0\UserService.Application.sourcelink.json
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Application\obj\Debug\net8.0\UserServ.9A0DA653.Up2Date
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Application\obj\Debug\net8.0\UserService.Application.dll
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Application\obj\Debug\net8.0\refint\UserService.Application.dll
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Application\obj\Debug\net8.0\UserService.Application.pdb
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Application\obj\Debug\net8.0\ref\UserService.Application.dll

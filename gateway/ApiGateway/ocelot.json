@@ -1,0 +1,51 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/users",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5189
+        }
+      ],
+      "UpstreamPathTemplate": "/users",
+      "UpstreamHttpMethod": [
+        "GET",
+        "POST",
+		"PUT"
+      ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/tasks",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5192
+        }
+      ],
+      "UpstreamPathTemplate": "/tasks",
+      "UpstreamHttpMethod": [
+        "GET",
+        "POST",
+        "PUT"
+      ]
+    },
+	{
+	  "DownstreamPathTemplate": "/api/tasks/{id}/assign",
+	  "DownstreamScheme": "http",
+		"DownstreamHostAndPorts": [
+    {
+      "Host": "localhost",
+      "Port": 5192
+    }
+  ],
+  "UpstreamPathTemplate": "/tasks/{id}/assign",
+  "UpstreamHttpMethod": [ "PUT" ]
+}
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:5091"
+  }
+}

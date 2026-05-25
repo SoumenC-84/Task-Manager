@@ -1,0 +1,59 @@
+D:\Project\UserService\backend\userservice.infrastructure\bin\Debug\net8.0\userservice.infrastructure.deps.json
+D:\Project\UserService\backend\userservice.infrastructure\bin\Debug\net8.0\userservice.infrastructure.runtimeconfig.json
+D:\Project\UserService\backend\userservice.infrastructure\bin\Debug\net8.0\userservice.infrastructure.dll
+D:\Project\UserService\backend\userservice.infrastructure\bin\Debug\net8.0\userservice.infrastructure.pdb
+D:\Project\UserService\backend\userservice.infrastructure\bin\Debug\net8.0\userservice.Application.dll
+D:\Project\UserService\backend\userservice.infrastructure\bin\Debug\net8.0\userservice.domain.dll
+D:\Project\UserService\backend\userservice.infrastructure\bin\Debug\net8.0\userservice.domain.pdb
+D:\Project\UserService\backend\userservice.infrastructure\bin\Debug\net8.0\userservice.Application.pdb
+D:\Project\UserService\backend\userservice.infrastructure\obj\Debug\net8.0\userservice.infrastructure.csproj.AssemblyReference.cache
+D:\Project\UserService\backend\userservice.infrastructure\obj\Debug\net8.0\userservice.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\UserService\backend\userservice.infrastructure\obj\Debug\net8.0\userservice.infrastructure.AssemblyInfoInputs.cache
+D:\Project\UserService\backend\userservice.infrastructure\obj\Debug\net8.0\userservice.infrastructure.AssemblyInfo.cs
+D:\Project\UserService\backend\userservice.infrastructure\obj\Debug\net8.0\userservice.infrastructure.csproj.CoreCompileInputs.cache
+D:\Project\UserService\backend\userservice.infrastructure\obj\Debug\net8.0\userservice.infrastructure.dll
+D:\Project\UserService\backend\userservice.infrastructure\obj\Debug\net8.0\refint\userservice.infrastructure.dll
+D:\Project\UserService\backend\userservice.infrastructure\obj\Debug\net8.0\userservice.infrastructure.pdb
+D:\Project\UserService\backend\userservice.infrastructure\obj\Debug\net8.0\userservice.infrastructure.genruntimeconfig.cache
+D:\Project\UserService\backend\userservice.infrastructure\obj\Debug\net8.0\ref\userservice.infrastructure.dll
+D:\Project\UserService\backend\UserService.Infrastructure\obj\Debug\net8.0\UserServ.28B62BA0.Up2Date
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\bin\Debug\net8.0\UserService.Infrastructure.deps.json
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\bin\Debug\net8.0\UserService.Infrastructure.runtimeconfig.json
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\bin\Debug\net8.0\UserService.Infrastructure.dll
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\bin\Debug\net8.0\UserService.Infrastructure.pdb
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\bin\Debug\net8.0\UserService.Application.dll
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\bin\Debug\net8.0\UserService.Domain.dll
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\bin\Debug\net8.0\UserService.Domain.pdb
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\bin\Debug\net8.0\UserService.Application.pdb
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.csproj.AssemblyReference.cache
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.AssemblyInfoInputs.cache
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.AssemblyInfo.cs
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.dll
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\obj\Debug\net8.0\refint\UserService.Infrastructure.dll
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.pdb
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.genruntimeconfig.cache
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\obj\Debug\net8.0\ref\UserService.Infrastructure.dll
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.sourcelink.json
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\obj\Debug\net8.0\UserServ.28B62BA0.Up2Date
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\bin\Debug\net8.0\UserService.Infrastructure.deps.json
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\bin\Debug\net8.0\UserService.Infrastructure.runtimeconfig.json
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\bin\Debug\net8.0\UserService.Infrastructure.dll
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\bin\Debug\net8.0\UserService.Infrastructure.pdb
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\bin\Debug\net8.0\UserService.Application.dll
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\bin\Debug\net8.0\UserService.Domain.dll
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\bin\Debug\net8.0\UserService.Domain.pdb
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\bin\Debug\net8.0\UserService.Application.pdb
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.csproj.AssemblyReference.cache
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.AssemblyInfoInputs.cache
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.AssemblyInfo.cs
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.sourcelink.json
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\obj\Debug\net8.0\UserServ.28B62BA0.Up2Date
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.dll
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\obj\Debug\net8.0\refint\UserService.Infrastructure.dll
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.pdb
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.genruntimeconfig.cache
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\obj\Debug\net8.0\ref\UserService.Infrastructure.dll
