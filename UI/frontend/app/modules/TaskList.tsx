@@ -92,23 +92,27 @@ export default function HomePage() {
                 <KanbanBoard
                     title="TODO"
                     tasks={todoTasks}
+                    columnStatus="TODO"
                     onTaskClick={setSelectedTask}
                 />
                 <KanbanBoard
                     title="ASSIGNED"
                     tasks={assignedTasks}
+                    columnStatus="ASSIGNED"
                     onTaskClick={setSelectedTask}
                 />
 
                 <KanbanBoard
                     title="IN PROGRESS"
                     tasks={progressTasks}
+                    columnStatus="IN_PROGRESS"
                     onTaskClick={setSelectedTask}
                 />
 
                 <KanbanBoard
                     title="DONE"
                     tasks={doneTasks}
+                    columnStatus="DONE"
                     onTaskClick={setSelectedTask}
                 />
 

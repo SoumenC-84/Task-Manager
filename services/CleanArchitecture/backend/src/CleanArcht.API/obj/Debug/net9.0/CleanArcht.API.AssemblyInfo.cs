@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanArcht.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf722b3ef957239a2358263f3a372dd2a1158603")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa93a1d722ac9e8b3cb6b268798758e6d473175a")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanArcht.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanArcht.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
