@@ -41,8 +41,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArcht.Application.Test
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UserService.Application.Tests", "UserService.Application.Tests", "{F5FF9D53-FC40-D107-275B-7C70F19E85D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Userservice.Application.Tests", "services\UserService\Backend\src\UserService.Application.Tests\Userservice.Application.Tests.csproj", "{03D04765-C1BD-4A9F-B322-DAF5E306A22E}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
