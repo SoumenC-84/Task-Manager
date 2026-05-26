@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\Backend\\src\\Userservice.Domain\\UserService.Domain.csproj": {}
+    "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\backend\\src\\UserService.Domain\\UserService.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\Backend\\src\\Userservice.Domain\\UserService.Domain.csproj": {
+    "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\backend\\src\\UserService.Domain\\UserService.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\Backend\\src\\Userservice.Domain\\UserService.Domain.csproj",
+        "projectUniqueName": "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\backend\\src\\UserService.Domain\\UserService.Domain.csproj",
         "projectName": "UserService.Domain",
-        "projectPath": "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\Backend\\src\\Userservice.Domain\\UserService.Domain.csproj",
+        "projectPath": "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\backend\\src\\UserService.Domain\\UserService.Domain.csproj",
         "packagesPath": "C:\\Users\\CE\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\Backend\\src\\Userservice.Domain\\obj\\",
+        "outputPath": "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\backend\\src\\UserService.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

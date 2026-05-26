@@ -4037,8 +4037,8 @@
     },
     "UserService.Domain/1.0.0": {
       "type": "project",
-      "path": "../Userservice.Domain/UserService.Domain.csproj",
-      "msbuildProject": "../Userservice.Domain/UserService.Domain.csproj"
+      "path": "../UserService.Domain/UserService.Domain.csproj",
+      "msbuildProject": "../UserService.Domain/UserService.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4085,8 +4085,8 @@
             "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\backend\\src\\UserService.Application\\UserService.Application.csproj": {
               "projectPath": "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\backend\\src\\UserService.Application\\UserService.Application.csproj"
             },
-            "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\Backend\\src\\Userservice.Domain\\UserService.Domain.csproj": {
-              "projectPath": "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\Backend\\src\\Userservice.Domain\\UserService.Domain.csproj"
+            "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\backend\\src\\UserService.Domain\\UserService.Domain.csproj": {
+              "projectPath": "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\backend\\src\\UserService.Domain\\UserService.Domain.csproj"
             }
           }
         }

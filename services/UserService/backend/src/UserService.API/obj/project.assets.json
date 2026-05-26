@@ -4463,8 +4463,8 @@
     },
     "UserService.Domain/1.0.0": {
       "type": "project",
-      "path": "../Userservice.Domain/UserService.Domain.csproj",
-      "msbuildProject": "../Userservice.Domain/UserService.Domain.csproj"
+      "path": "../UserService.Domain/UserService.Domain.csproj",
+      "msbuildProject": "../UserService.Domain/UserService.Domain.csproj"
     },
     "UserService.Infrastructure/1.0.0": {
       "type": "project",
