@@ -1,29 +1,51 @@
-name: Backend CI
+name: Backend and Frontend CI
+
 on:
   push:
-    branches: master
+    branches:
+      - master
 
 jobs:
   build:
+
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
 
-      - name: Setup .NET SDK
-        uses: actions/setup-dotnet@v3
+      - name: Checkout Source Code
+        uses: actions/checkout@v4
+
+      # ==========================
+      # Next.js Frontend
+      # ==========================
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          dotnet-version: '9.0.x'
+          node-version: 20
 
-      - name: Restore dependencies
+      - name: Install Frontend Dependencies
+        working-directory: UI/frontend
+        run: npm install
+
+      - name: Build Frontend
+        working-directory: UI/frontend
+        run: npm run build
+
+      # ==========================
+      # .NET Backend
+      # ==========================
+
+      - name: Setup .NET 8
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 8.0.x
+
+      - name: Restore Dependencies
         run: dotnet restore MicroservicesPOC.sln
 
-      - name: Build the project
+      - name: Build Solution
         run: dotnet build MicroservicesPOC.sln --configuration Release --no-restore
 
-      - name: Run tests
-        run: dotnet test MicroservicesPOC.sln --configuration Release --no-build
       - name: Run Tests
         run: dotnet test MicroservicesPOC.sln --configuration Release --no-build
-        
- 
