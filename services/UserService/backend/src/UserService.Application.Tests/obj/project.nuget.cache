@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TCAhSef3pU8=",
+  "dgSpecHash": "TPR2RW89PPM=",
   "success": true,
-  "projectFilePath": "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\Backend\\src\\UserService.Application.Tests\\Userservice.Application.Tests.csproj",
+  "projectFilePath": "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\backend\\src\\UserService.Application.Tests\\UserService.Application.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CE\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\CE\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",

@@ -1,0 +1,51 @@
+version: '3.9'
+
+services:
+
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: sqlserver
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=YourStrong@Pass123
+    ports:
+      - "1433:1433"
+
+  userservice:
+    build:
+      context: ./services/UserService/backend/src
+    container_name: userservice
+    ports:
+      - "7001:8080"
+    environment:
+      - ASPNETCORE_URLS=http://+:8080
+
+  taskservice:
+    build:
+      context: ./services/CleanArchitecture/backend/src
+    container_name: taskservice
+    ports:
+      - "7002:8080"
+    environment:
+      - ASPNETCORE_URLS=http://+:8080
+
+  gatewayservice:
+    build:
+      context: ./gateway/ApiGateway
+    container_name: gatewayservice
+    ports:
+      - "7000:8080"
+    environment:
+      - ASPNETCORE_URLS=http://+:8080
+    depends_on:
+      - userservice
+      - taskservice
+
+  ui:
+    build:
+      context: ./UI/frontend
+    container_name: ui
+    ports:
+      - "3000:3000"
+    depends_on:
+      - gatewayservice

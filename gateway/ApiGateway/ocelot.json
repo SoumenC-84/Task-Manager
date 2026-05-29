@@ -5,15 +5,15 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
-          "Port": 5189
+          "Host": "userservice",
+          "Port": 8080
         }
       ],
       "UpstreamPathTemplate": "/users",
       "UpstreamHttpMethod": [
         "GET",
         "POST",
-		"PUT"
+        "PUT"
       ]
     },
     {
@@ -21,8 +21,8 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
-          "Port": 5192
+          "Host": "taskservice",
+          "Port": 8080
         }
       ],
       "UpstreamPathTemplate": "/tasks",
@@ -32,20 +32,22 @@
         "PUT"
       ]
     },
-	{
-	  "DownstreamPathTemplate": "/api/tasks/{id}/assign",
-	  "DownstreamScheme": "http",
-		"DownstreamHostAndPorts": [
     {
-      "Host": "localhost",
-      "Port": 5192
+      "DownstreamPathTemplate": "/api/tasks/{id}/assign",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "taskservice",
+          "Port": 8080
+        }
+      ],
+      "UpstreamPathTemplate": "/tasks/{id}/assign",
+      "UpstreamHttpMethod": [
+        "PUT"
+      ]
     }
   ],
-  "UpstreamPathTemplate": "/tasks/{id}/assign",
-  "UpstreamHttpMethod": [ "PUT" ]
-}
-  ],
   "GlobalConfiguration": {
-    "BaseUrl": "http://localhost:5091"
+    "BaseUrl": "http://localhost:8080"
   }
 }

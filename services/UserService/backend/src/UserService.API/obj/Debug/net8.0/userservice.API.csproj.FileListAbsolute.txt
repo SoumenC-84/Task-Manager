@@ -429,9 +429,9 @@ D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\
 D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.API\obj\Debug\net8.0\staticwebassets.build.json.cache
 D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.API\obj\Debug\net8.0\staticwebassets.development.json
 D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.API\obj\Debug\net8.0\UserServ.7E4AE71C.Up2Date
 D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.API\obj\Debug\net8.0\UserService.API.dll
 D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.API\obj\Debug\net8.0\refint\UserService.API.dll
 D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.API\obj\Debug\net8.0\UserService.API.pdb
 D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.API\obj\Debug\net8.0\UserService.API.genruntimeconfig.cache
 D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.API\obj\Debug\net8.0\ref\UserService.API.dll
+D:\Project\MicroservicePOC Backup\MicroservicesPOC\services\UserService\backend\src\UserService.API\obj\Debug\net8.0\UserServ.7E4AE71C.Up2Date

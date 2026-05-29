@@ -1,0 +1,12 @@
+text id="8ff1o9"
+node_modules
+.next
+.git
+
+# Ignore node_modules and build output directories
+node_modules        
+.next
+# Ignore Git repository files
+.git
+
+
