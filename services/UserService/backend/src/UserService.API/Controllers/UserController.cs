@@ -33,6 +33,7 @@ public class UserController : ControllerBase
     [HttpGet]
     public async Task<IActionResult> GetAll()
     {
+        Console.WriteLine("GetAll endpoint hit");
         var users = await _getAllUsersHandler.Handle();
 
         return Ok(users);
@@ -40,6 +41,7 @@ public class UserController : ControllerBase
     [HttpPut]
     public async Task<IActionResult> Update(UpdateUserCommand command)
     {
+        Console.WriteLine("Update endpoint hit");
         await _updateUserHandler.Handle(command);
         return Ok(command);
     }
