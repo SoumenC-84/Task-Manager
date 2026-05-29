@@ -3,7 +3,7 @@ name: Deploy UserService to Azure
 on:
   push:
     branches:
-      - main
+      - master
     paths:
       - 'UserService/**'
 
