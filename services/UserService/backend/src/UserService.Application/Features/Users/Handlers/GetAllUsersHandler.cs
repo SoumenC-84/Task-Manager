@@ -18,6 +18,18 @@ public class GetAllUsersHandler
     }
     public async Task<int> HandleDbContextCount()
     {
-        return await _repository.GetDbContextCount();
+        try
+        {
+            Console.WriteLine("GetDbContextCount method called in GetAllUsersHandler.");
+            var count = await _repository.GetDbContextCount();
+            Console.WriteLine($"GetDbContextCount returned: {count}");
+            return count;
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error in GetDbContextCount: {ex.Message}");
+            throw;
+        }
+        //return await _repository.GetDbContextCount();
     }
 }

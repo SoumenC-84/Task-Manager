@@ -46,6 +46,18 @@ public class UserRepository : IUserRepository
 
     public async Task<int> GetDbContextCount()
     {
-        return await _context.Users.CountAsync();
+        try
+        {
+            Console.WriteLine("Attempting to count users in the database...");
+            var count = await _context.Users.CountAsync();
+            Console.WriteLine($"Counted {count} users in the database.");
+            return count;
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error counting users: {ex.Message}");
+            throw;
+        }
+
     }
 }
