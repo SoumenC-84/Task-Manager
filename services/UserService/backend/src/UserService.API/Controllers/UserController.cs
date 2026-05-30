@@ -48,6 +48,6 @@ public class UserController : ControllerBase
     [HttpGet("/message")]
     public IActionResult GetMessage()
     {
-        return Ok("Hello, World!");
+        return Ok("Hello, this is a test message!");
     }
 }
