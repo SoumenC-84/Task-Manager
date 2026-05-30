@@ -50,4 +50,19 @@ public class UserController : ControllerBase
     {
         return Ok("Hello, this is a test message!");
     }
+
+    [HttpGet("dbtest")]
+    public async Task<IActionResult> DbTest()
+    {
+        try
+        {
+            //_getAllUsersHandler.HandleDbContextCount().Wait();
+            var count = await _getAllUsersHandler.HandleDbContextCount();
+            return Ok($"Database connected. Users count = {count}");
+        }
+        catch (Exception ex)
+        {
+            return Ok(ex.ToString());
+        }
+    }
 }

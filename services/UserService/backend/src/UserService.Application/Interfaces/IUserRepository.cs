@@ -10,4 +10,5 @@ public interface IUserRepository
     Task<List<User>> GetAllAsync();
     Task UpdateAsync(User user);
     Task SaveChangesAsync();
+    Task<int> GetDbContextCount();
 }

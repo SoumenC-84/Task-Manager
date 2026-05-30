@@ -16,4 +16,8 @@ public class GetAllUsersHandler
     {
         return await _repository.GetAllAsync();
     }
+    public async Task<int> HandleDbContextCount()
+    {
+        return await _repository.GetDbContextCount();
+    }
 }

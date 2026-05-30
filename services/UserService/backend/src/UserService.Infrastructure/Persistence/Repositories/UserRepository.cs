@@ -43,4 +43,9 @@ public class UserRepository : IUserRepository
     {
         await Task.Run(() => _context.Users.Update(user));
     }
+
+    public async Task<int> GetDbContextCount()
+    {
+        return await _context.Users.CountAsync();
+    }
 }
