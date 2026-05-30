@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - master
-    paths:
-      - 'UserService/**'
 
 jobs:
   build-and-deploy:
