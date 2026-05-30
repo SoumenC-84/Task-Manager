@@ -15,7 +15,18 @@ public class UserRepository : IUserRepository
 
     public async Task AddAsync(User user)
     {
-        await _context.Users.AddAsync(user);
+        try
+        {
+            Console.WriteLine($"Adding user with email: {user.Email}");
+            await _context.Users.AddAsync(user);
+            Console.WriteLine("User added to DbContext.");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error adding user: {ex.Message}");
+            throw;
+        }
+        //await _context.Users.AddAsync(user);
     }
 
     public async Task<User?> GetByIdAsync(Guid id)
@@ -31,7 +42,19 @@ public class UserRepository : IUserRepository
 
     public async Task<List<User>> GetAllAsync()
     {
-        return await _context.Users.ToListAsync();
+        try
+        {
+            Console.WriteLine("Retrieving all users from the database...");
+            var users = await _context.Users.ToListAsync();
+            Console.WriteLine($"Retrieved {users.Count} users from the database.");
+            return users;
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error retrieving users: {ex.Message}");
+            throw;
+        }
+        //return await _context.Users.ToListAsync();
     }
 
     public async Task SaveChangesAsync()
