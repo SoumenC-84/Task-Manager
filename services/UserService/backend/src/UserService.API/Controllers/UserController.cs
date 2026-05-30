@@ -45,4 +45,9 @@ public class UserController : ControllerBase
         await _updateUserHandler.Handle(command);
         return Ok(command);
     }
+    [HttpGet("/message")]
+    public IActionResult GetMessage()
+    {
+        return Ok("Hello, World!");
+    }
 }
